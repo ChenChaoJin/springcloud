@@ -5,4 +5,4 @@ spring:
       # 本地测试
       host: 192.168.1.107
       port: 27017
-foo: hello dev
+foo: hello dev13456
