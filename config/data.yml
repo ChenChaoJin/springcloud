@@ -2,8 +2,7 @@ spring:
   data:
     mongodb:
       database: mqttData
-
       # 本地测试
-      host: 192.168.1.108
+      host: 192.168.1.107
       port: 27017
 foo: hello dev
